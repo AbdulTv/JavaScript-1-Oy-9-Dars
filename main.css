@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#result-container {
+    margin-top: 20px;
+    font-size: 24px;
+    color: black;
+    padding: 20px;
+    border: 2px solid #000;
+    display: none; /* Result initially hidden */
+}
+
+p {
+    font-size: 20px;
+    margin: 10px 0;
+}
